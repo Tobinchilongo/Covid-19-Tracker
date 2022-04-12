@@ -12,7 +12,7 @@ Covid-19 Tracker is a mobile web application that provide the user the new cases
 - CSS
 
 
-![screenshot](./public/screenshot.png)
+![screenshot](Coming soon)
 
 ## Live Demo 
 [Live Demo](Coming Soon)
