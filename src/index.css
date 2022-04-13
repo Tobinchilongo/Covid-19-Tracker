@@ -23,7 +23,9 @@
 
 body {
   font-family: var(--lato-font);
-  background: var(--primary);
+  background-image: url('../public/virus.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   color: black;
 }
 
@@ -60,5 +62,11 @@ a {
 }
 
 .bg-secondary {
-  background: var(--secondary);
+  background: #368f8b;
+}
+
+.country-name {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #fff;
 }

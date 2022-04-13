@@ -22,16 +22,22 @@
 }
 
 .striped {
-  padding: 5px;
+  padding: 10px;
   border: 1px solid var(--primary);
 }
 
+.striped:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.1);
+  z-index: 1;
+}
+
 .striped:nth-child(odd) {
-  background: var(--terciary);
+  background: #242038;
 }
 
 .striped:nth-child(even) {
-  background: var(--secondary);
+  background: #242038;
 }
 
 /* ipad */
