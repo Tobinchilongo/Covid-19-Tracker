@@ -15,7 +15,7 @@ Covid-19 Tracker is a mobile web application that provide the user the new cases
 ![screenshot](Coming soon)
 
 ## Live Demo 
-[Live Demo](Coming Soon)
+[Live Demo](https://tobinscovid-19-tracker.herokuapp.com/)
 
 ## Installation
 
