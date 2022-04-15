@@ -67,3 +67,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- [Microverse Inc](https://www.microverse.org/)
+- Design from [Nelson Sakwa on Binance](https://www.behance.net/sakwadesignstudio?isa0=1)
+- [NARATIVA COVID API](https://covid19tracking.narrativa.com/)
+- FontAwsome for free icons
