@@ -33,11 +33,11 @@
 }
 
 .striped:nth-child(odd) {
-  background: #242038;
+  background: #369;
 }
 
 .striped:nth-child(even) {
-  background: #242038;
+  background: #86bbd8;
 }
 
 /* ipad */

@@ -9,13 +9,13 @@ img {
 
 .world {
   width: 150px;
-  background-color: var(--primary);
+  background-color: #369;
 }
 
 .map {
   width: auto;
   height: 50px;
-  background-color: #8d86c9;
+  background-color: #756868a3;
 }
 
 .title {
