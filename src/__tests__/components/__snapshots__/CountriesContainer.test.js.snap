@@ -27,7 +27,7 @@ exports[`Countries snapshot renders correctly 1`] = `
       >
         Stats by country
          
-        2022-04-13
+        2022-04-15
       </h5>
       <input
         className="search-input"
