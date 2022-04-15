@@ -19,7 +19,7 @@ Covid-19 Tracker is a mobile web application that provide the user the new cases
 
 
 ## Presentation Video
-[Presentation Video](https://www.loom.com/share/56da292ac7744509baab0d2bc189985b)
+[Click Here](https://www.loom.com/share/56da292ac7744509baab0d2bc189985b)
 
 ## Installation
 
